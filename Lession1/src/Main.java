@@ -19,7 +19,7 @@ public class Main {
 
         // Задание 3*
         int[] arr1 = new int[]{4, 6, 7, 8, 9};
-        int[] arr2 = new int[]{4, 23, 7, 2, 3};
+        int[] arr2 = new int[]{4, 23, 0, 2, 3};
         System.out.println(Arrays.toString(divisionArrays(arr1, arr2)));
     }
 
